@@ -10,27 +10,27 @@ const Nav = () => {
                 </a>
             </div>
             <ul className="flex space-x-7 justify-center text-center items-center p-5 sm:w-[80%]">
-                <li className="first:ml-12 hover:bg-blue-300 p-3 rounded-lg">
+                <li className="first:ml-12 hover:bg-[#2563EB] hover:text-white p-3 rounded-lg">
                     <a href="" className="text-xl">
                         Courses and Programs
                     </a>
                 </li>
-                <li className="hover:bg-blue-300 p-3 rounded-lg">
+                <li className="hover:bg-[#2563EB] hover:text-white p-3 rounded-lg">
                     <a href="" className="text-xl">
                         Price
                     </a>
                 </li>
-                <li className="hover:bg-blue-300 p-3 rounded-lg">
+                <li className="hover:bg-[#2563EB] hover:text-white p-3 rounded-lg">
                     <a href="" className="text-xl">
                         Teachers
                     </a>
                 </li>
-                <li className="hover:bg-blue-300 p-3 rounded-lg">
+                <li className="hover:bg-[#2563EB] hover:text-white p-3 rounded-lg">
                     <a href="" className="text-xl">
                         Reviews
                     </a>
                 </li>
-                <li className="hover:bg-blue-300 p-3 rounded-lg">
+                <li className="hover:bg-[#2563EB] hover:text-white p-3 rounded-lg">
                     <a href="" className="text-xl">
                         Contact
                     </a>
